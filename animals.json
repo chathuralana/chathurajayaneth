@@ -1,0 +1,62 @@
+[
+  {
+      "image": "./Animals/elephantcardimg.png",
+      "title": "Elephant",
+      "description": "Guardians of Grace: Sri Lankan Elephants and Tuskers, Majestic Icons of Harmony",
+      "link": "./elephantpg.html"
+  },
+  {
+      "image": "./Animals/leopardcardimg.png",
+      "title": "Leopard",
+      "description": "Stealthy Elegance, Guardian of the Island's Wild Secrets.",
+      "link": "./leopardpg.html"
+  },
+  {
+      "image": "./Animals/frogmouth.png",
+      "title": "Frogmouth",
+      "description": "Enigmatic Nocturnal Muse, Master of Forest Whispers.",
+      "link": "./frogmouth.html"
+  },
+  {
+      "image": "./Animals/Obbabblercardimg.png",
+      "title": "Orange-billed Babbler",
+      "description": "Harmonious Chatter in the Heart of the Emerald Isle.",
+      "link": "./Orangebabbler.html"
+  },
+  {
+      "image": "./Animals/pitvipercardimg.png",
+      "title": "Pit Viper",
+      "description": "Jewel of the Forest, Stealthy Guardian in Striking Hues",
+      "link": "./pitviper.html"
+  },
+  {
+      "image": "./Animals/rilawacardimg.png",
+      "title": "Purple-faced langur",
+      "description": "Graceful Guardians of the Emerald Canopy.",
+      "link": "./purplefacelan.html"
+  },
+  {
+      "image": "./Animals/peacockcardimg.png",
+      "title": "Peacock",
+      "description": "Radiant Elegance, Nature's Living Tapestry.",
+      "link": "./peacock.html"
+  },
+  {
+      "image": "./Animals/rhlizard.png",
+      "title": "Rhino-horned lizard",
+      "description": "Newly discoverd Sri lankan pride",
+      "link": "./rhinohornliz.html"
+  },
+  {
+      "image": "./Animals/slothbearcardimg.png",
+      "title": "Sloth Bear",
+      "description": "Gentle Forest Nomad, Emblem of Wild Resilience.",
+      "link": "./slothbear.html"
+  },
+  {
+      "image": "./Animals/unuhapuluwacardimg.png",
+      "title": "Slender Loris",
+      "description": "Nocturnal Enchantress, Delicate Guardian of Twilight Realms.",
+      "link": "./slenderloris.html"
+  }
+]

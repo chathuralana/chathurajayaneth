@@ -1,0 +1,31 @@
+[
+    {
+        "section_id": "paramain",
+        "content_id": "wilpattupa1",
+        "content": "Nestled in the northwest of Sri Lanka, Wilpattu National Park stands as a pristine testament to the country's natural beauty and wildlife diversity. As the largest national park in Sri Lanka, Wilpattu unfolds across an expansive landscape, encompassing dense jungles, serene lakes, and vast open plains. Renowned for its untamed wilderness, the park is home to a plethora of species, including elusive leopards, majestic elephants, and a vibrant array of birdlife. The name 'Wilpattu' translates to 'Land of Lakes,' reflecting the numerous natural water bodies that dot the park, creating a picturesque setting for both wildlife and visitors alike. With its relatively uncrowded ambiance and a unique ecosystem, Wilpattu National Park beckons to those seeking an authentic and immersive safari experience in the heart of Sri Lanka's natural wonders."
+    },
+    {
+        "header_id": "wilpattuheader1",
+        "image_id": "wilpattuimg1",
+        "content_id": "wilpattupa2",
+        "header": "What to see in Wilpattu",
+        "image": "./Wilpattu/wilpattu2.jpg",
+        "content": "Nestled in the northwest of Sri Lanka, Wilpattu National Park stands as a pristine testament to the country's natural beauty and wildlife diversity. As the largest national park in Sri Lanka, Wilpattu unfolds across an expansive landscape, encompassing dense jungles, serene lakes, and vast open plains. Renowned for its untamed wilderness, the park is home to a plethora of species, including elusive leopards, majestic elephants, and a vibrant array of birdlife. The name Wilpattu translates to Land of Lakes, reflecting the numerous natural water bodies that dot the park, creating a picturesque setting for both wildlife and visitors alike. With its relatively uncrowded ambiance and a unique ecosystem, Wilpattu National Park beckons to those seeking an authentic and immersive safari experience in the heart of Sri Lanka's natural wonders."
+    },
+    {
+        "header_id": "wilpattuheader2",
+        "image_id": "wilpattuimg2",
+        "content_id": "wilpattupa3",
+        "header": "Best time to visit",
+        "image": "./Wilpattu/wilpattu3.jpg",
+        "content": "The best time to visit Wilpattu National Park is during the dry season, which typically spans from late May to early October. This period ensures optimal conditions for wildlife viewing as the vegetation is less dense, making it easier to spot animals in their natural habitats. The months of June to September are particularly favorable, offering the driest and most pleasant weather for safari adventures. The scarcity of water sources during the dry season concentrates wildlife around the remaining lakes, enhancing the chances of encountering a variety of species, including the park's famous leopard population. However, it's important to note that the park may close during the monsoon season, usually from October to January, due to heavy rains and potential flooding. Therefore, planning a visit during the dry months ensures a more enjoyable and rewarding experience amidst the diverse landscapes and thriving wildlife of Wilpattu National Park."
+    },
+    {
+        "image_sources": [
+            "./Wilpattu/wilpattu1.jpg",
+            "./Wilpattu/wilpattu3.jpg",
+            "./Wilpattu/wilpattu4.jpg",
+            "./Wilpattu/wilpattu5.jpg"
+        ]
+    }
+]

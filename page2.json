@@ -1,0 +1,31 @@
+{
+  "animalCards": {
+    "title": "Our Animals",
+    "cards": [
+      {
+        "image": "./Animals/leopardcardimg.png",
+        "title": "Leopard",
+        "description": "Stealthy Elegance, Guardian of the Island's Wild Secrets.",
+        "link": "./leopardpg.html"
+      },
+      {
+        "image": "./Animals/elephantcardimg.png",
+        "title": "Elephant",
+        "description": "Guardians of Grace: Sri Lankan Elephants and Tuskers, Majestic Icons of Harmony",
+        "link": "./elephantpg.html"
+      },
+      {
+        "image": "./Animals/frogmouth.png",
+        "title": "Frogmouth",
+        "description": "Enigmatic Nocturnal Muse, Master of Forest Whispers.",
+        "link": "./frogmouth.html"
+      },
+      {
+        "image": "./Animals/Obbabblercardimg.png",
+        "title": "Orange-billed Babbler",
+        "description": "Harmonious Chatter in the Heart of the Emerald Isle.",
+        "link": "./Orangebabbler.html"
+      }
+    ]
+  }
+}
